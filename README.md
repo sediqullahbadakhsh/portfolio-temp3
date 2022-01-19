@@ -11,11 +11,7 @@ In this Project, I used HTML and CSS (Media, Transition, flexbox, Grid and more)
 
 - HTML
 - CSS
-
-
-## Live Demo
-
-- [Badakhsh-Portfolio](https://sediqullahbadakhsh.github.io/badakhsh-portfolio/).
+- Bootstrap
 
 
 ## Authors
@@ -25,6 +21,13 @@ In this Project, I used HTML and CSS (Media, Transition, flexbox, Grid and more)
 - GitHub: [@Badakhsh](https://github.com/sediqullahbadakhsh)
 - Twitter: [@Badakhsh](https://twitter.com/sediqullah6)
 - LinkedIn: [@Badakhsh](https://linkedin.com/in/sediqullah-badakhsh-999053a8)
+
+
+👤 **Victor Peralta**
+
+- GitHub: [@VicPeralta](https://github.com/VicPeralta)
+- Twitter: [@VicPeralta](https://twitter.com/VicPeralta)
+
 
 ## 🤝 Contributing
 
