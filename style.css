@@ -1,0 +1,11 @@
+.gray-space{
+  background-color: gray;
+  width: auto;
+  padding: 0;
+  margin: 0;
+  height: 250px;
+}
+
+.welcome{
+  height: 100vh;
+}
